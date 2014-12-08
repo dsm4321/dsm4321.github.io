@@ -1,5 +1,4 @@
-comparison.github.io
+dsm4321.github.io
 ====================
 
-Comparison
-Just me testing out some stuff
+Personal online portfolio
