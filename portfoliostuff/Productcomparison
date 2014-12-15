@@ -1,0 +1,58 @@
+<html>
+<body>
+<body background="http://i.imgur.com/90QsemO.jpg">
+<head><title>Product Comparison</title></head>
+
+<center><h1><p><font color="#00CCFF">Product Comparison</font></p></h1></center>
+
+<table width="500" border="0" cellpadding="5" align=left>
+<tr>
+<td align="center" valign="center">
+<a href="http://goo.gl/kCYXeu" target= "_blank"><img src="http://i.imgur.com/w5M0R6S.png" title="Hard Disk Drive"/></a>
+<br />
+		<center><h1><p><font color="#33FF00">Information!</font></p></h1></center>
+         <hr width="100%" color="#CC6633">
+<ol dir="rtl"><div align="center"><font color="#00CCFF">
+	<li>$189</li>
+	<li>4TB</li>
+	<li>6GB/s</li>
+    <li>WD</li>
+    <li>Moderate load speed</li>
+    <li>Unlimited write cycles</li>
+    <li>Uses internal discs</li>
+    </div>
+</ol></font>
+</td>
+</tr>
+
+</table>
+
+<table width="500" border="0" cellpadding="5" align=right>
+<td align="center" valign="center">
+<a href="http://goo.gl/5XPbHc" target= "_blank"><img src="http://i.imgur.com/CYIvx02.png" title="Solid State Drive"/></a>
+<br />
+		<center><h1><p><font color="#33FF00">Information!</h1></font></p></h1></center>
+        <hr width="100%" color="#CC6633">
+<ol><font color="#00CCFF">
+	<li>$500</li>
+	<li>1TB</li>
+	<li>6GB/s</li>
+    <li>Samsung</li>
+    <li>Fast load speed</li>
+    <li>Limited write cycles</li>
+    <li>Uses internal storage board</li>
+</ol></font>
+</td>
+
+</tr>
+
+</table>
+<hr width="100%" color="#CC6633">
+<center><img src="http://i.imgur.com/VRuDfgC.gif"></center>
+<hr width="100%" color="#CC6633">
+
+&copy; Damon McLean 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&copy; Web Design
+
+</body>
+</html>
