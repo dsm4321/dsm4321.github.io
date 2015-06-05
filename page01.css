@@ -29,10 +29,7 @@ p
 
 	}
 
-#yellow
-	{
-		color: #FF0;
-	}
+
 		
 a:hover
 	{
@@ -41,4 +38,37 @@ a:hover
 		letter-spacing: 15px;
 		background-color: lime;
 		font-size: 150%;
+	}
+	
+#div1
+
+	{
+		background-color: blue;
+		color: white;
+		font-family: "arial";
+
+
+
+
+	}
+	
+span.span1
+
+	{
+		font-style:italic;
+		font-weight:bold;
+		text-transform:uppercase;
+		font-family: "arial";
+		color:green;
+	}
+	
+#drop
+	{
+		float: left;
+		font-size: 28px;
+		background-color: #90ee90;
+		border-width: 3px;
+		border-color: #2e8b57;
+		border-style: outset;
+
 	}
