@@ -1,1 +1,44 @@
+body
+	{
+		background-color: green;
+		font-family: Calibri;
+		font-size: 14pt;
+		margin-left:14%;
+		margin-right: 14%;
+		background-image:url("http://i.imgur.com/FfCiWit.jpg");
+	}
+		
+h1
+	{
+		color: #0F0;
+		text-align: center;
+		text-decoration: underline;
+	}
 
+ol
+	{
+		font-weight: bold;
+		font-family: Verdana;
+		color: #0f0;
+	}
+		
+p
+	{
+		font-weight:bold;
+		font-size:15pt;
+
+	}
+
+#yellow
+	{
+		color: #FF0;
+	}
+		
+a:hover
+	{
+		color: red;
+		text-transform: uppercase;
+		letter-spacing: 15px;
+		background-color: lime;
+		font-size: 150%;
+	}
