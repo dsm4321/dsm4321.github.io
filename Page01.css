@@ -125,3 +125,25 @@ nav ul li a:active {
   color: #000;
  
   text-decoration: none; }
+
+:first-child
+ 
+:last-child
+ 
+:nth-of-type(n) /* Where n is a number, targets the nth child. You can also use “even” or “odd” instead of a number. */
+
+av ul li:first-child a {
+ 
+  border-top-left-radius: 8px;
+ 
+  border-bottom-left-radius: 8px;
+ 
+}
+ 
+nav ul li:last-child a {
+ 
+  border-top-right-radius: 8px;
+ 
+  border-bottom-right-radius: 8px;
+ 
+}
