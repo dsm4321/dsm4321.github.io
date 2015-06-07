@@ -147,3 +147,9 @@ nav ul li:last-child a {
   border-bottom-right-radius: 8px;
  
 }
+
+box-shadow: 0 0 1px #000; /* x offset, y offset, size, color */
+ 
+text-shadow: 2px 2px 2px #000;
+ 
+transition: background 2s;
