@@ -111,3 +111,17 @@ nav ul li a:hover {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b0ca34', endColorstr='#96c40d',GradientType=0 ); /* IE6-9 */
  
   }
+
+nav ul li a,
+ 
+nav ul li a:focus,
+ 
+nav ul li a:visited,
+ 
+nav ul li a:hover,
+ 
+nav ul li a:active {
+ 
+  color: #000;
+ 
+  text-decoration: none; }
